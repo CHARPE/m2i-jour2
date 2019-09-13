@@ -1,0 +1,5 @@
+config.yaml
+
+# ignorer les fichiers logs mais pas le répertoire
+logs/*
+!logs/.gitkeep
